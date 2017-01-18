@@ -1,0 +1,11 @@
+body {
+    background-color: yellow;
+}
+
+div {
+    height: 500px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1px;
+}
